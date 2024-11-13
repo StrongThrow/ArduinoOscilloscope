@@ -50,6 +50,6 @@
 
 | ProFile | Role | Part | Tech Stack |
 |:--------:|:--------:|:--------:|:--------:|
-| ![1](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/fa24aab6-a2db-4e61-a032-61e6adffcca8) <br> [강송구](https://github.com/Throwball99) |   팀장  |   HW, SW(오실로스코프) |   Arduino, Fusion 360 |
+| ![KakaoTalk_20241113_230554223](https://github.com/user-attachments/assets/986e1819-2d0d-4715-97ce-590ea6495421) <br> [강송구](https://github.com/Throwball99) |   팀장  |   HW, SW(오실로스코프) |   Arduino, Fusion 360 |
 | ![pngtree-faceless-user-anonymous-unknown-icon-png-image_4816463](https://github.com/user-attachments/assets/bfd8d075-4b37-4b94-b6ca-e27ba3707f3c) <br>  길재훈  |   팀원  |   SW(신호 발생기)  |   Arduino  |
 |   ![개구리](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/69319bbd-74bb-40c1-92d8-ae96e23b3500) <br> [최지민](https://github.com/irmu98)    |   팀원  |   SW(어플리케이션)  |   Flutter, Android  |
