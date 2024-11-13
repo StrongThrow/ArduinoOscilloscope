@@ -1,6 +1,6 @@
 # 작품명: 구르미 [한국공학대학교 전자공학부 제8회 임베디드 시스템 경진대회 총장상]
 
-![임베디드시스템경진대회_총장상_2018144002_강송구](https://github.com/user-attachments/assets/c9fd4840-eac5-4be0-a3a6-3b2b8f8d4d2e)
+![처음화면](https://github.com/user-attachments/assets/a0a07ad7-1137-476a-8e30-6d9f0e91d2c3)
 
 (유튜브 링크 : 업로드 예정)
 
@@ -36,10 +36,10 @@
 ![외관](https://github.com/user-attachments/assets/ed3357a7-eeb5-4285-b4ab-0710317535df)
 
 ## 어플리케이션
-초기화면 및 가이드
+#### 초기화면 및 가이드
 ![초기화면 및 가이드](https://github.com/user-attachments/assets/7efca86f-b82a-40bd-9cc6-c9a69779c1b0)
 
-메뉴와 기능들
+#### 메뉴와 기능들
 ![메뉴와 각종 기능](https://github.com/user-attachments/assets/15d83998-a611-49e5-a623-8c894037e61f)
 
 ## 개발환경
@@ -51,5 +51,5 @@
 | ProFile | Role | Part | Tech Stack |
 |:--------:|:--------:|:--------:|:--------:|
 | ![1](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/fa24aab6-a2db-4e61-a032-61e6adffcca8) <br> [강송구](https://github.com/Throwball99) |   팀장  |   HW, SW(오실로스코프) |   Arduino, Fusion 360 |
-| ![pngtree-faceless-user-anonymous-unknown-icon-png-image_4816463](https://github.com/user-attachments/assets/63f5093a-a756-4106-b89c-185fb0d18f2c) <br>  길재훈  |   팀원  |   SW(신호 발생기)  |   Arduino  |
+| ![pngtree-faceless-user-anonymous-unknown-icon-png-image_4816463](https://github.com/user-attachments/assets/bfd8d075-4b37-4b94-b6ca-e27ba3707f3c) <br>  길재훈  |   팀원  |   SW(신호 발생기)  |   Arduino  |
 |   ![개구리](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/69319bbd-74bb-40c1-92d8-ae96e23b3500) <br> [최지민](https://github.com/irmu98)    |   팀원  |   SW(어플리케이션)  |   Flutter, Android  |
