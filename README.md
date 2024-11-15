@@ -1,6 +1,6 @@
 # 작품명: 아두이노를 이용한 오실로스코프 및 전용 어플리케이션 [한국공학대학교 전자공학부 제8회 임베디드 시스템 경진대회 총장상]
 
-![처음화면](https://github.com/user-attachments/assets/a0a07ad7-1137-476a-8e30-6d9f0e91d2c3)
+![처음화면](https://github.com/user-attachments/assets/4a7c15e7-a680-4ace-aed5-05c3e6b10f1f)
 
 (유튜브 링크 : 업로드 예정)
 
@@ -67,6 +67,9 @@
 ## 개발환경
 
 ![개발환경](https://github.com/user-attachments/assets/bf43c1ff-1d0f-47ac-878f-d824f44c22fe)
+
+## 수상 내역
+![처음화면 - 복사본](https://github.com/user-attachments/assets/5b642b28-f23a-4478-8f65-4a5b99407678)
 
 ## 팀원
 
