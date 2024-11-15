@@ -29,7 +29,7 @@
 
 ## 회로도
 
-![회로도](https://github.com/user-attachments/assets/e3161e7a-6b06-47f7-8b46-e6b3034274f5)
+![회로도](https://github.com/user-attachments/assets/16e30dbc-24f7-46f2-9638-f184e084ca02)
 
 ## 3D 모델링 및 외관
 
